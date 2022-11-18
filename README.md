@@ -1,7 +1,7 @@
 
-# Mastering Microcontroller and Embedded Driver Development
+# Mastering Microcontroller and Embedded Driver Development (MCU1)
 
-This repo contains notes and programming assignments for the Udemy's "[Mastering Microcontroller and Embedded Driver Development](https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/)" course by FastBit Embedded Brain Academy.
+This repo contains notes and programming assignments for the Udemy's "[Mastering Microcontroller and Embedded Driver Development (MCU1)](https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/)" course by FastBit Embedded Brain Academy.
 
 Date: August, 2019.
 
