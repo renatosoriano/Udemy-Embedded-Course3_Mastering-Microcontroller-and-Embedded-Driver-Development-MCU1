@@ -1,0 +1,6 @@
+../Src/main.c:27:6:array_fill_numbers	24	static
+../Src/main.c:37:6:display_numbers	32	static
+../Src/main.c:50:6:swap_numbers	24	static
+../Src/main.c:66:6:bubble_sort	32	static
+../Src/main.c:89:6:insertion_sort	32	static
+../Src/main.c:114:5:main	16	static
