@@ -12,7 +12,7 @@ Date Updated (STM32CubeIDE): July, 2023.
 
 - The [**Coding Exercises**](https://github.com/renatosoriano/Udemy-Embedded-Course3_Mastering-Microcontroller-and-Embedded-Driver-Development-MCU1/tree/main/Target_Workspace) are available. 
 
-- The [**Output Results**](#exercises-circuits-and-outputs) are available.  
+- The [**Exercises Circuits and Outputs**](#exercises-circuits-and-outputs) are available.  
 
 ## Descriptions
 
