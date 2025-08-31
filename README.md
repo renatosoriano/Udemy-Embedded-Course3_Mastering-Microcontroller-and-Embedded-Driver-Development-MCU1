@@ -10,7 +10,7 @@ Date Updated (STM32CubeIDE): July, 2023.
 
 - The [**Certificate**](https://github.com/renatosoriano/Udemy-Embedded-Course3_Mastering-Microcontroller-and-Embedded-Driver-Development-MCU1/blob/main/Certificate.pdf) is available. 
 
-- The [**Peripheral Drivers (GPIO, I2C, SPI, USART, RCC)**](https://github.com/renatosoriano/Udemy-Embedded-Course3_Mastering-Microcontroller-and-Embedded-Driver-Development-MCU1/tree/main/Target_Workspace/stm32f4xx_drivers/drivers) for STM32f446 Nucleo board are available.
+- The [**Peripheral Drivers (GPIO, I2C, SPI, USART, RCC)**](https://github.com/renatosoriano/Udemy-Embedded-Course3_Mastering-Microcontroller-and-Embedded-Driver-Development-MCU1/tree/main/Target_Workspace/stm32f4xx_drivers/drivers) for STM32F446 Nucleo board are available.
 
 - The [**Board Support Package (BSP)**](https://github.com/renatosoriano/Udemy-Embedded-Course3_Mastering-Microcontroller-and-Embedded-Driver-Development-MCU1/tree/main/Target_Workspace/stm32f4xx_drivers/Src) for LCD and DS1307 RTC module is available. 
 
