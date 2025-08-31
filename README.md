@@ -10,14 +10,18 @@ Date Updated (STM32CubeIDE): July, 2023.
 
 - The [**Certificate**](https://github.com/renatosoriano/Udemy-Embedded-Course3_Mastering-Microcontroller-and-Embedded-Driver-Development-MCU1/blob/main/Certificate.pdf) is available. 
 
-- The [**Coding Exercises**](https://github.com/renatosoriano/Udemy-Embedded-Course3_Mastering-Microcontroller-and-Embedded-Driver-Development-MCU1/tree/main/Target_Workspace) are available. 
+- The [**Peripheral Drivers (GPIOs, I2C, SPI, USART, RCC)**](https://github.com/renatosoriano/Udemy-Embedded-Course3_Mastering-Microcontroller-and-Embedded-Driver-Development-MCU1/tree/main/Target_Workspace/stm32f4xx_drivers/drivers) for STM32f446 Nucleo board are available.
+
+- The [**Board Support Package (BSP)**](https://github.com/renatosoriano/Udemy-Embedded-Course3_Mastering-Microcontroller-and-Embedded-Driver-Development-MCU1/tree/main/Target_Workspace/stm32f4xx_drivers/Src) for LCD and DS1307 RTC module are available. 
+
+- The [**Coding Exercises**](https://github.com/renatosoriano/Udemy-Embedded-Course3_Mastering-Microcontroller-and-Embedded-Driver-Development-MCU1/tree/main/Target_Workspace/stm32f4xx_drivers/Src) are available. 
 
 - The [**Exercises Circuits and Outputs**](#exercises-circuits-and-outputs) are available.  
 
 ## Descriptions
 
 This course demystifies the internal working of the Microcontroller and its Peripherals by coding step by step and developing software drivers entirely from scratch extracting maximum information from Datasheets, Reference manuals, Specs, etc. Also protocol decoding using logic analyzers debugging, testing along with hints and tips.
-Will write peripheral drivers for most commonly used peripherals such as GPIOs, I2C, SPI, USART, etc., from scratch.
+Will write peripheral drivers for most commonly used peripherals such as GPIOs, I2C, SPI, USART, etc., from scratch, as well as Drivers for LCD and DS1307 I2C RTC module.
 
 ## Requirements
 
